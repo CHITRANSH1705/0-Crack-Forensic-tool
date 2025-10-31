@@ -1,0 +1,19 @@
+⦁	Command-line with winget (Windows 10/11):
+
+winget install -e --id Python.Python.3.12
+
+⦁	verify download:
+ 	python --version
+
+⦁	Install Python with winget:
+ 	winget install -e --id Python.Python.3.12
+
+⦁	verify Winget
+ 	winget --version
+
+⦁	Install Dependencies:
+ 	pip install psutil matplotlib pillow
+ 	pip install pywin32
+
+⦁	Run your script:
+ 	python 0 crack.py
