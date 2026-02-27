@@ -11,14 +11,12 @@ import subprocess
 import sqlite3
 import shutil
 import json
-
 # ---------------------------
 # CONFIG
 # ---------------------------
 MY_PASSWORD = "Chitransh@123"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
 KEY_FILE = "forensic_key.key"
-
 # Generate key only if not exists
 if os.path.exists(KEY_FILE):
     with open(KEY_FILE, "rb") as f:
@@ -29,7 +27,6 @@ else:
         f.write(KEY)
 
 cipher = Fernet(KEY)
-
 # ---------------------------
 # HELPER FUNCTIONS (System, Processes, Network, etc.)
 # ---------------------------
@@ -218,3 +215,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
