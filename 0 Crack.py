@@ -17,6 +17,7 @@ import json
 MY_PASSWORD = "Chitransh@123"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
 KEY_FILE = "forensic_key.key"
+
 # Generate key only if not exists
 if os.path.exists(KEY_FILE):
     with open(KEY_FILE, "rb") as f:
