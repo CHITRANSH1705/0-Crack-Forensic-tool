@@ -33,6 +33,7 @@ cipher = Fernet(KEY)
 # ---------------------------
 # HELPER FUNCTIONS (System, Processes, Network, etc.)
 # ---------------------------
+
 def get_system_info():
     cpu_freq = psutil.cpu_freq()
     mem = psutil.virtual_memory()
