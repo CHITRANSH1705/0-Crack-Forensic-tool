@@ -29,6 +29,7 @@ else:
         f.write(KEY)
 
 cipher = Fernet(KEY)
+
 # ---------------------------
 # HELPER FUNCTIONS (System, Processes, Network, etc.)
 # ---------------------------
