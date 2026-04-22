@@ -6,6 +6,7 @@ Overview
 The goal of this project is to automate digital evidence collection in a secure, tamper-proof way for incident response, forensic analysis, and system monitoring
 
  Features
+ 
 1.System & Process Forensics
 - Collects **OS information**, system architecture, and active users  
 - Captures all **running processes** with CPU and memory usage  
