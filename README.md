@@ -23,7 +23,7 @@ The goal of this project is to automate digital evidence collection in a secure,
 - Logs **recent USB history**  
 - Lists **hidden or recently modified files**
 
-4.⚙️ System Behavior Analysis
+4.System Behavior Analysis
 - Extracts **boot time, uptime, and last shutdown time**  
 - Displays **CPU, Memory, and Disk utilization**  
 - Detects system restarts or unexpected shutdowns  
