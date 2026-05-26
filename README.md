@@ -18,7 +18,7 @@ The goal of this project is to automate digital evidence collection in a secure,
 - Records **protocol distribution (TCP/UDP)**  
 - Captures **ARP table** and **DNS cache**
 
-3.💾 Storage & USB Forensics
+3. Storage & USB Forensics
 - Detects **all connected USB devices** (Vendor ID, Product ID, and mount point)  
 - Logs **recent USB history**  
 - Lists **hidden or recently modified files**
