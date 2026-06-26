@@ -30,8 +30,6 @@ The goal of this project is to automate digital evidence collection in a secure,
   - Disk usage bar charts  
   - USB & network summary  
 ---
-
-
 ⚙️ Installation
  All commands and installation steps are provided in command.txt 
 
