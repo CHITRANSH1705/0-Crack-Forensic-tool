@@ -32,7 +32,6 @@ The goal of this project is to automate digital evidence collection in a secure,
 ---
 ⚙️ Installation
  All commands and installation steps are provided in command.txt 
-
 Make sure you install the required dependencies before running the tool.
 
 
