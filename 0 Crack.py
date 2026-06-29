@@ -15,7 +15,6 @@ import json
 # ---------------------------
 # CONFIG
 # ---------------------------
-h
 
 MY_PASSWORD = "Chitransh@123"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
