@@ -17,5 +17,6 @@ winget install -e --id Python.Python.3.12
  	pip install psutil matplotlib pillow
  	pip install pywin32
 
+
 ⦁	Run your script:
  	python 0 crack.py
