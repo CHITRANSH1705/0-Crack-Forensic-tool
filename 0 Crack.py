@@ -17,7 +17,6 @@ import json
 # ---------------------------
 
 
-
 MY_PASSWORD = "Chitransh@123"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
 KEY_FILE = "forensic_key.key"
