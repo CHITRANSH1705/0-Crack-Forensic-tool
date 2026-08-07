@@ -20,3 +20,5 @@ winget install -e --id Python.Python.3.12
 
 ⦁	Run your script:
  	python 0 crack.py
+
+
