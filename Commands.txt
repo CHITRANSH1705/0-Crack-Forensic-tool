@@ -1,5 +1,6 @@
 ⦁	Command-line with winget (Windows 10/11):
 
+
 winget install -e --id Python.Python.3.12
 
 
