@@ -13,8 +13,6 @@ winget install -e --id Python.Python.3.12
 ⦁	verify Winget
  	winget --version
 
-
-
 ⦁	Install Dependencies:
  	pip install psutil matplotlib pillow
  	pip install pywin32
