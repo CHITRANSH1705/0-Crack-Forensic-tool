@@ -12,11 +12,9 @@ import sqlite3
 import shutil
 import json
 
-
 # ---------------------------
 # CONFIG
 # ---------------------------
-
 
 MY_PASSWORD = "Chitransh@123"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
