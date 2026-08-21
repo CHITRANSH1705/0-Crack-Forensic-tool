@@ -11,7 +11,6 @@ import subprocess
 import sqlite3
 import shutil
 import json
-
 # ---------------------------
 # CONFIG
 # ---------------------------
