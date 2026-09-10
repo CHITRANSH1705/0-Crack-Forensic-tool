@@ -9,6 +9,8 @@ winget install -e --id Python.Python.3.12
 
 
 
+
+
 ⦁	Install Python with winget:
  	winget install -e --id Python.Python.3.12
 
