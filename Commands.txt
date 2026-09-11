@@ -4,6 +4,7 @@
 winget install -e --id Python.Python.3.12
 
 
+
 ⦁	verify download:
  	python --version
 
