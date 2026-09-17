@@ -5,6 +5,8 @@ import hashlib
 # To change it: hashlib.sha256("NewPassword".encode()).hexdigest()
 PASSWORD_HASH = hashlib.sha256("Chitransh@123".encode()).hexdigest()
 
+
+
 def verify_password(pwd: str) -> bool:
     return hashlib.sha256(pwd.encode()).hexdigest() == PASSWORD_HASH
 
