@@ -13,6 +13,8 @@ KEY_FILE       = "forensic_key.key"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
 LOG_FILE       = "forensic_run.log"
 
+
+
 # ─── COLLECTION SETTINGS ──────────────────────────────────────────────────────
 RECENT_FILES_HOURS = 48
 MAX_PROCESSES      = 10
