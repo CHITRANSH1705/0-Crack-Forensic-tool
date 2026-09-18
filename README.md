@@ -6,8 +6,6 @@ The goal of this project is to automate digital evidence collection in a secure,
 
 
 
-
-
  Features
 1.System & Process Forensics
 - Collects **OS information**, system architecture, and active users  
