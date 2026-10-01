@@ -12,6 +12,8 @@ The goal of this project is to automate digital evidence collection in a secure,
 - Identifies **suspicious or hidden processes**
 
 
+
+
 2.  Network Forensics
 - Lists all **active connections** (local and remote IPs, ports, and status)  
 - Records **protocol distribution (TCP/UDP)**  
