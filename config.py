@@ -7,6 +7,8 @@ PASSWORD_HASH = hashlib.sha256("Chitransh@123".encode()).hexdigest()
 def verify_password(pwd: str) -> bool:
     return hashlib.sha256(pwd.encode()).hexdigest() == PASSWORD_HASH
 
+
+
 # ─── FILE PATHS ───────────────────────────────────────────────────────────────
 KEY_FILE       = "forensic_key.key"
 ENCRYPTED_FILE = "advanced_forensic_report.enc"
