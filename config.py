@@ -16,8 +16,6 @@ MAX_PROCESSES      = 10
 MAX_CONNECTIONS    = 10
 MAX_HISTORY_ROWS   = 20
 REPORT_VERSION     = "2.0"
-
-
 # ─── ANALYSIS SETTINGS ────────────────────────────────────────────────────────
 KNOWN_USB_VENDORS = {
     "sandisk", "kingston", "samsung", "logitech", "microsoft",
